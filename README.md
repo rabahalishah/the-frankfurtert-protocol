@@ -3,6 +3,9 @@
 ## Projects in this repo
 - **Is it a Hot Dog? 🌭**: `is-it-a-hot-dog/` (Next.js + Hugging Face)
 
+## Live Demo
+https://the-frankfurtert-protocol-dscr.vercel.app/
+
 ## Is it a Hot Dog? 🌭
 An AI-powered snack judge built for a hackathon demo. Upload an image and the app will consult a Vision Transformer (ViT) model to decide if it’s a hot dog.
 
